@@ -1,6 +1,6 @@
 # TodoList
 
-
--[ ] Play Video Games
--[ ] Eat
--[ ] Sleep
+1. Things to do today
+*-[ ] Play Video Games
+*-[ ] Eat
+*-[ ] Sleep
