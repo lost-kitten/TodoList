@@ -1,6 +1,8 @@
 # TodoList
 
-##Things to do today
-    *-[ ] Play Video Games
-    *-[ ] Eat
-    *-[ ] Sleep
+*Video Games
+* Eat
+* Sleep
+* Play Fallout
+* stop being lazy
+* be more productive
