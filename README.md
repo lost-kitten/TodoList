@@ -1,5 +1,6 @@
 # TodoList
 
-*Video Games
-* Eat
-* Sleep
+
+-[ ] Play Video Games
+-[ ] Eat
+-[ ] Sleep
